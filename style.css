@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(255,202,255);
+    font-family: "Helvetica", "Arial", sans-serif;
+    
+}
+
+h1, h1, h2, h3, h4, h5, h6{
+    text-transform: uppercase;
+}
+
+img {
+    border-style: solid;
+    border-color: rgb(110,25,110);
+    border-left-width: 8px;
+    
+    
+}
