@@ -1,6 +1,7 @@
 *{
-    background-color: rgb(255,202,255);
+    background-color: #F1C8DB;
     font-family: "Helvetica", "Arial", sans-serif;
+    color: #558B6E;
     
 }
 
@@ -8,10 +9,24 @@ h1, h1, h2, h3, h4, h5, h6{
     text-transform: uppercase;
 }
 
-img {
-    border-style: solid;
-    border-color: rgb(110,25,110);
-    border-left-width: 8px;
-    
-    
+.window{
+    display: inline-block;
+    padding: 5px;
+    background-color: #B88C9E;
+    width:auto;
+    height:auto;
+    overflow: auto;
 }
+
+img {
+    border-style: double;
+    padding: 8px;
+    border-color: #704C5E;
+    border-width: 8px;
+}
+    
+
+ul, ol, li, h1, h2, h3, h4, h5, h6 {
+    background-color: inherit;
+}
+
